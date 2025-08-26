@@ -7,9 +7,9 @@ Landing page desenvolvida como parte do Projeto Fase 1, com o objetivo de aprese
 [Acesse a nossa landing page aqui!](URL_AQUI_DEPOIS_DA_PUBLICACAO)
 
 ## 🧑‍💻 Integrantes da Equipe
-* [Nome do Integrante 1](https://github.com/usuario1)
-* [Nome do Integrante 2](https://github.com/usuario2)
-* [Nome do Integrante 3](https://github.com/usuario3)
+* [Naldo Júnior](https://github.com/usuario1)
+* [Karlos Miguel](https://github.com/usuario2)
+
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5** (Estrutura semântica)
